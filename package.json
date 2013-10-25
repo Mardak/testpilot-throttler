@@ -1,0 +1,9 @@
+{
+  "author": "Mozilla",
+  "description": "Test Pilot add-on distribution throttler",
+  "fullName": "Test Pilot Throttler",
+  "id": "testpilot@labs.mozilla.com",
+  "license": "MPL 2.0",
+  "name": "testpilot-throttler",
+  "version": "2"
+}
